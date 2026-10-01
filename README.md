@@ -6,26 +6,22 @@ A personal learning repository documenting my journey through **Artificial Intel
 
 The repository will grow as I progress through different areas of the AI/ML domain, including:
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib & Seaborn
-* SQL
-* Data Collection
-* Web Scraping
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Agentic AI
-* OpenAI APIs
-* AI/ML Projects
+- Python
+- NumPy
+- Pandas
+- Matplotlib & Seaborn
+- SQL
+- Data Collection
+- Web Scraping
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI
+- OpenAI APIs
+- AI/ML Projects
 
 ## 🎯 Purpose
 
 This repository serves as a personal reference and archive of my AI/ML learning journey, including practice programs, implementations, experiments, notes, and projects.
 
 The code reflects different stages of learning and is primarily intended for **learning, experimentation, and future reference**.
-
-## 🔒 Repository
-
-This repository is maintained as a **private learning archive**.
