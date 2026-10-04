@@ -1,9 +1,10 @@
 class Student:
-    def __init__(self, name, cgpa):
+
+    def __init__(self, name, cgpa): #instance attributes
         self.name = name
         self.cgpa = cgpa
 
-    def get_cgpa(self):
+    def get_cgpa(self): #instance method
         return self.cgpa
 
 stu1 = Student("Manasvi", 8.4)
