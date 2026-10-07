@@ -1,0 +1,15 @@
+{
+  "name": "Manasvi",
+  "isStudent": true,
+  "address": {
+    "city": "Indore",
+    "country": "India"
+  },
+  "subjects": [
+    "Python",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Generative AI",
+    "Agentic AI"
+  ]
+}

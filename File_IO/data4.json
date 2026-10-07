@@ -1,0 +1,6 @@
+{
+    "age": "21",
+    "isStudent": true,
+    "name": "Manasviii",
+    "note": "This data will be dumped into data4.json file using json.dump()"
+}
